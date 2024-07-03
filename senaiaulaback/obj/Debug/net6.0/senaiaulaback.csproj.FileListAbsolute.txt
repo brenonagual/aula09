@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\bin\Debug\net6.0\senaiaulaback.exe
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\bin\Debug\net6.0\senaiaulaback.deps.json
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\bin\Debug\net6.0\senaiaulaback.runtimeconfig.json
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\bin\Debug\net6.0\senaiaulaback.dll
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\bin\Debug\net6.0\senaiaulaback.pdb
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.dll
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\refint\senaiaulaback.dll
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.pdb
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\senaiaulaback.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Desktop\senaiaulaback\obj\Debug\net6.0\ref\senaiaulaback.dll
